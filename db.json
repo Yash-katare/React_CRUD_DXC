@@ -1,0 +1,43 @@
+{
+ "empdata":   
+[
+    {
+        "empid": 1,
+        "Name" : "Yash",
+        "DOJ": "25/08/2020",
+        "Attributes":{
+            "Exp": [{"StartDate": "2-10-2022","EndDate":"2-11-2023",
+                    "Roles": "Front-end Developer", "Project": "Aviva" },
+                    {"StartDate": "2-10-2022","EndDate":"2-11-2023",
+                    "Roles": "back-end Developer", "Project": "Avivaplus" }],
+
+            "Certificate": [{"PassedDate": "2-10-2022","ExpirationDate":"2-11-2023",
+                        "CertificateName": "JAVA Developer", "Provider": "UDEMY" },
+                        {"PassedDate": "2-10-2022","ExpirationDate":"2-11-2023",
+                        "CertificateName": "JS Developer", "Provider": "UDEMY" }]
+                      },
+        "createdAt": "2022-04-11T03:45:56.252Z",
+        "updatedAt": "2022-04-12T23:32:41.854Z",
+        "publishedAt": "2022-04-11T03:45:58.624Z"          
+    },
+    {
+        "empid": 2,
+        "Name" : "Arun",
+        "DOJ": "25/08/2021",
+        "Attributes":{
+            "Exp": [{"StartDate": "2-10-2022","EndDate":"2-11-2023",
+                    "Roles": "Front-end Developer", "Project": "Aviva" },
+                    {"StartDate": "2-10-2022","EndDate":"2-11-2023",
+                    "Roles": "back-end Developer", "Project": "Avivaplus" }],
+
+            "Certificate": [{"PassedDate": "2-10-2022","ExpirationDate":"2-11-2023",
+                        "CertificateName": "JAVA Developer", "Provider": "UDEMY" },
+                        {"PassedDate": "2-10-2022","ExpirationDate":"2-11-2023",
+                        "CertificateName": "JS Developer", "Provider": "UDEMY" }]
+                      },
+        "createdAt": "2022-04-11T03:45:56.252Z",
+        "updatedAt": "2022-04-12T23:32:41.854Z",
+        "publishedAt": "2022-04-11T03:45:58.624Z"          
+    }
+]
+}
